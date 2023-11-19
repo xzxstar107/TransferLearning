@@ -27,6 +27,7 @@ In the landscape of machine learning and predictive analytics, decision-makers a
 We encourage contributions to this project. If you have suggestions or improvements, please fork the repository and submit a pull request.
 
 ## Citation
+```bibtex
 %DA
 @article{ben2010theoryDA,
   title={A theory of learning from different domains},
