@@ -17,11 +17,11 @@ In the landscape of machine learning and predictive analytics, decision-makers a
 - `JDdata.zip`: Compressed file containing the real-world data utilized in our experiments.
 
 ## How to Use
-1. Begin by preprocessing your dataset using the `Data_preprocessing.ipynb` notebook to fit the expected input format.
-2. Run `baseline.py` to establish a baseline model for your prediction task.
-3. Utilize `draw_graph.py` to generate visual representations of your data and results.
+1. Consult `E2E pricing.pdf` for an in-depth understanding of the problem and the modeling approach.
+2. Begin by preprocessing your dataset using the `Data_preprocessing.ipynb` notebook to fit the expected input format.
+3. Run `baseline.py` to establish a baseline model for your prediction task.
 4. Apply `transfer.py` to perform the transfer learning-based end-to-end training with the proposed monotone neural network.
-5. Consult `E2E pricing.pdf` for an in-depth understanding of the problem and the modeling approach.
+5. Utilize `draw_graph.py` to generate visual representations of your data and results.
 
 ## Contribution
 We encourage contributions to this project. If you have suggestions or improvements, please fork the repository and submit a pull request.
