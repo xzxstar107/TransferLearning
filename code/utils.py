@@ -23,7 +23,6 @@ torch.cuda.manual_seed(SEED)
 device = "cpu"  # Device configuration
 
 # 3. Utility functions
-# 3. Utility functions
 def _flatten(sequence):
     """ Flatten a sequence of tensors. """
     flat = [p.contiguous().view(-1) for p in sequence]
